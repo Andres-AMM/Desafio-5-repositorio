@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+h1{
+   font-size: 1.5rem;
+   background:gold;  
+   justify-items: center;
+}
